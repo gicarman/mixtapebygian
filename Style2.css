@@ -1,0 +1,83 @@
+/*
+Final Website Requirement
+Author: Manuel, Gian Carlo E.
+Date: November 2022
+Section: WD-202 
+*/
+
+* {
+	padding: 10px;
+	margin: auto;}
+
+
+nav {text-align: center;}
+
+a {
+	color: white;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	font-size: 27px;
+	text-decoration: none;}
+
+a.nav:hover{
+	color: white;
+	background-color: #FF1616;}
+
+header {text-align: center;
+		color: #FF1616;
+		font-family: Arial, sans-serif;
+		font-size: 60px;
+		font-weight: bold;
+		margin: auto;
+ 		padding-bottom: 1%;
+ 		background-color: #121212;
+ 		clear: both;}
+
+
+body {background-color: #121212;}
+
+.new {
+	text-align: center;
+  display: flex;}
+
+h2 {font-family: Arial, sans-serif;
+		font-size: 45px;
+		font-weight: bolder;
+		color: white;
+		text-align: center;}
+
+.newmusic {
+	text-align: left;
+}
+
+table {
+			border-collapse: collapse;
+  		background: #282828;
+			border-radius: 15px;}
+
+table.grammy {
+			border-collapse: collapse;
+  		background: #121212;
+			border-radius: 15px;}
+
+td.award {font-family: Arial, sans-serif;
+  color: white;
+	text-align: center;}
+
+th, td {
+  font-family: Arial, sans-serif;
+  color: white;
+	text-align: left;}
+
+td:hover {background-color: #303134;}
+
+th:hover {background-color: #303134;}
+
+
+footer {
+		font-family: Arial, sans-serif;
+		font-size: 20px;
+		color: white;
+		margin: auto;
+ 		clear: both;
+ 		text-align: center;}

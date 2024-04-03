@@ -1,0 +1,57 @@
+/*
+Final Website Requirement
+Author: Manuel, Gian Carlo E.
+Date: November 2022
+Section: WD-202 
+*/
+
+* {
+	padding: 10px;
+	margin: auto;}
+
+
+nav {text-align: center;}
+
+a {
+	color: white;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	font-size: 27px;
+	text-decoration: none;}
+
+a.nav:hover{
+	color: white;
+	background-color: #FF1616;}
+
+header {text-align: center;
+		color: #FF1616;
+		font-family: Arial, sans-serif;
+		font-size: 60px;
+		font-weight: bold;
+		margin: auto;
+ 		padding-bottom: 1%;
+ 		background-color: #121212;
+ 		clear: both;}
+
+
+body {background-color: #121212;}
+
+table {
+			border-collapse: collapse;
+  		background: #282828;
+			border-radius: 15px;}
+
+th, td {
+  font-family: Arial, sans-serif;
+  color: white;}
+
+tr:hover {background-color: #303134;}
+
+
+footer {
+		font-family: Arial, sans-serif;
+		font-size: 20px;
+		color: white;
+		margin: auto;
+ 		clear: both;
+ 		text-align: center;}
